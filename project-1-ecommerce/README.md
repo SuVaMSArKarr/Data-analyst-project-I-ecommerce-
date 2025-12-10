@@ -134,6 +134,11 @@ The dashboard includes:
 - `dashboard.html` - Interactive dashboard
 - `README.md` - Project documentation
 
+## 🔗 Live Dashboard
+
+[View Interactive Dashboard](../project-1-ecommerce/dashboard.html)
+
+---
 
 **Dataset Source:** Simulated e-commerce transaction data based on common business patterns
 
